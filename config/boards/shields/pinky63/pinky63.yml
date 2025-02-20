@@ -1,0 +1,9 @@
+file_format: "1"
+id: pinky63
+name: PINKY63
+type: shield
+url: https://github.com/gtips/reviung/tree/master/pinky63
+requires: [pro_micro]
+features:
+  - keys
+  - studio
